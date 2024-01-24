@@ -3,7 +3,7 @@ from discord.ext import commands, tasks
 import asyncio
 import random
 
-TOKEN = "MTE5OTUyNTM2OTYzMjUzNDY1OA.GjDS0B.RLXEG3EuJ5tpQM-obVf3QDPh-X-j_f2qyK_Ptw"
+TOKEN = ""
 GUILD_ID = 123456789012345678  # Replace with your server ID
 SPAWN_CHANNEL_ID = 987654321098765432  # Replace with your spawn channel ID
 COLLECTOR_ROLE_ID = 123456789012345678  # Replace with your collector role ID
